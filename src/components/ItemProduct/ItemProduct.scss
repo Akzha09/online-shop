@@ -1,0 +1,176 @@
+.box{
+
+    .text{
+        display: flex;
+        gap: 30px;
+        margin-top: 79px;
+        h1{
+           
+color: rgb(171, 163, 163);
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0%;
+text-align: left;
+
+        }
+        h2{
+color: rgb(168, 161, 161);
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0%;
+text-align: left;
+
+        }
+        h3{
+color: rgb(0, 0, 0);
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0%;
+text-align: left;
+        }
+    }
+
+    .mini{
+        margin-top: 200px;
+        margin-left: -460px;
+        display: flex;
+      
+        gap: 36px;
+
+        img{
+            width: 170px;
+            height: 138px;              
+        }
+
+        .z1{
+            margin-top: 150px;
+            margin-left: -205px;
+
+        }
+        .z2{
+            margin-top: 305px;
+            margin-left: -205px;
+
+        }
+        .z3{
+            margin-top: 460px;
+            margin-left: -205px;
+
+        }
+    }
+
+    .jostik{
+        margin-left: 20px;
+        margin-top: 200px;
+        img{
+            width: 500px;
+            height: 600px;
+        }
+    }
+
+    .inna{
+        margin-left: 70px;
+        margin-top: 210px;
+        .price{
+           
+            h1{
+                color: rgb(0, 0, 0);
+                font-family: Inter;
+                font-size: 24px;
+                font-weight: 600;
+                line-height: 24px;
+                letter-spacing: 3%;
+                text-align: left;
+
+            }
+            img{
+                width: 290px;
+                height: 21px;
+            }
+            h2{
+                color: rgb(0, 0, 0);
+                font-family: Inter;
+                font-size: 24px;
+                font-weight: 400;
+                line-height: 24px;
+                letter-spacing: 3%;
+                text-align: left;
+                margin-top: 16px;
+            }
+
+            p{
+                
+            color: rgb(0, 0, 0);
+            font-family: Poppins;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 21px;
+            letter-spacing: 0%;
+            text-align: left;
+            margin-top: 20px;
+            }
+            .pp{
+                width: 400px;
+                height: 0;
+                /* Text2 */
+                border: 1px solid rgb(181, 176, 176);     
+            }
+            .ooo{
+                width: 155px;
+                height: 20px;
+                margin-top: 20px;
+            }
+            
+        }
+        .qqq{
+
+            img{
+                width: 296px;
+                height: 32px;
+                margin-top: 24px;
+            }
+        }
+
+        .AKZ{
+
+            img{
+                width: 159px;
+                height: 44px;
+                margin-top: 24px;
+            }
+
+            button{
+                position: absolute;
+                width: 165px;
+                height: 44px;
+                margin-top: 24px;
+                margin-left: 16px;
+                border-radius: 4px;
+             background: rgb(219, 68, 68);
+             color: #fff;
+
+            }
+
+            .v10{
+                margin-left: 350px;
+                margin-top: -65px;
+                img{
+                    width: 40px;
+                    height: 40px;
+                }
+            }
+            .image{
+                img{
+                    width: 399px;
+                    height: 180px;
+                }
+            }
+        }
+    }
+}

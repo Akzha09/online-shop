@@ -1,0 +1,424 @@
+.box{
+   grid-template-columns: repeat(4,1fr);
+   display: grid;
+    .cotent{
+        margin-top: -180px;
+
+        .korz{
+            position: absolute;
+            width: 24px;
+            height: 24px;  
+            background-color: rgb(0, 0, 0);    
+            margin-top: 510px; 
+            margin-left: 60px;
+        }
+        .Add{
+
+            img{
+                width: 270px;
+                height: 250px;
+                margin-top: 250px;
+            }
+
+            .price{
+                position: absolute;
+                width: 55px;
+                height: 26px;   
+                border-radius: 4px;
+                background: rgb(219, 68, 68);
+                margin-top: 270px;
+                text-align: center;
+                color: #fff;
+                margin-left: 10px;
+            }
+
+           
+        }
+        button{
+            // position: absolute;
+            width: 270px;
+            height: 41px;
+            margin-top: 00px;
+            background-color: black;
+            
+            color: rgb(255, 255, 255);
+            font-family: Poppins;
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 18px;
+            letter-spacing: 0%;
+      
+        }
+
+        h1{
+
+            color: rgb(0, 0, 0);
+            font-family: Poppins;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            margin-top: 16px;
+        }
+
+        p{
+color: rgb(219, 68, 68);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+        }
+
+        h2{
+            color: rgb(168, 166, 166);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: line-through;
+margin-left: 50px;
+margin-top: -40px;
+        }
+       
+    }
+
+    .mus{
+        margin-top: 86px;
+        margin-left: -54px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .coten{
+        margin-top: -180px;
+        margin-left: 30px;
+
+        .kor{
+            position: absolute;
+            width: 24px;
+            height: 24px;  
+            background-color: rgb(0, 0, 0);    
+            margin-top: 510px; 
+            margin-left: 60px;
+        }
+        .Ad{
+
+            img{
+                width: 270px;
+                height: 250px;
+                margin-top: 250px;
+            }
+
+            .pric{
+                position: absolute;
+                width: 55px;
+                height: 26px;   
+                border-radius: 4px;
+                background: rgb(219, 68, 68);
+                margin-top: 270px;
+                text-align: center;
+                color: #fff;
+                margin-left: 10px;
+            }
+
+           
+        }
+        button{
+            // position: absolute;
+            width: 270px;
+            height: 41px;
+            margin-top: 00px;
+            background-color: black;
+            
+            color: rgb(255, 255, 255);
+            font-family: Poppins;
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 18px;
+            letter-spacing: 0%;
+      
+        }
+
+        h1{
+
+            color: rgb(0, 0, 0);
+            font-family: Poppins;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            margin-top: 16px;
+        }
+
+        p{
+color: rgb(219, 68, 68);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+        }
+
+        h2{
+            color: rgb(168, 166, 166);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: line-through;
+margin-left: 50px;
+margin-top: -40px;
+        }
+       
+    }
+
+    .mu{
+        margin-top: 86px;
+        margin-left: -54px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .cote{
+        margin-top: -180px;
+        margin-left: 30px;
+
+        .ko{
+            position: absolute;
+            width: 24px;
+            height: 24px;  
+            background-color: rgb(0, 0, 0);    
+            margin-top: 510px; 
+            margin-left: 60px;
+        }
+        .A{
+
+            img{
+                width: 270px;
+                height: 250px;
+                margin-top: 250px;
+            }
+
+            .pri{
+                position: absolute;
+                width: 55px;
+                height: 26px;   
+                border-radius: 4px;
+                background: rgb(219, 68, 68);
+                margin-top: 270px;
+                text-align: center;
+                color: #fff;
+                margin-left: 10px;
+            }
+
+           
+        }
+        button{
+            // position: absolute;
+            width: 270px;
+            height: 41px;
+            margin-top: 00px;
+            background-color: black;
+            
+            color: rgb(255, 255, 255);
+            font-family: Poppins;
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 18px;
+            letter-spacing: 0%;
+      
+        }
+
+        h1{
+
+            color: rgb(0, 0, 0);
+            font-family: Poppins;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            margin-top: 16px;
+        }
+
+        p{
+color: rgb(219, 68, 68);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+        }
+
+        h2{
+            color: rgb(168, 166, 166);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: line-through;
+margin-left: 50px;
+margin-top: -40px;
+        }
+       
+    }
+
+    .m{
+        margin-top: 86px;
+        margin-left: -54px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .cot{
+        margin-top: -180px;
+        margin-left: 30px;
+
+        .k{
+            position: absolute;
+            width: 24px;
+            height: 24px;  
+            background-color: rgb(0, 0, 0);    
+            margin-top: 510px; 
+            margin-left: 60px;
+        }
+        .b{
+
+            img{
+                width: 270px;
+                height: 250px;
+                margin-top: 250px;
+            }
+
+            .pr{
+                position: absolute;
+                width: 55px;
+                height: 26px;   
+                border-radius: 4px;
+                background: rgb(219, 68, 68);
+                margin-top: 270px;
+                text-align: center;
+                color: #fff;
+                margin-left: 10px;
+            }
+
+           
+        }
+        button{
+            // position: absolute;
+            width: 270px;
+            height: 41px;
+            margin-top: 00px;
+            background-color: black;
+            
+            color: rgb(255, 255, 255);
+            font-family: Poppins;
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 18px;
+            letter-spacing: 0%;
+      
+        }
+
+        h1{
+
+            color: rgb(0, 0, 0);
+            font-family: Poppins;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            margin-top: 16px;
+        }
+
+        p{
+color: rgb(219, 68, 68);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+        }
+
+
+        .xxx{
+            width: 1170px;
+            height: 466px;
+            margin-left: -900px;
+            margin-top: 80px;
+        }
+
+        h2{
+            color: rgb(168, 166, 166);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: line-through;
+margin-left: 50px;
+margin-top: -40px;
+        }
+       
+    }
+
+    .z{
+        margin-top: 86px;
+        margin-left: -54px;
+    }
+}
